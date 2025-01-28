@@ -1,0 +1,6 @@
+renders/*
+*.3mf
+*.obj
+*.blend1
+*.FCBak
+*.mtl
