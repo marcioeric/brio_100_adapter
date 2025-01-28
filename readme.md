@@ -31,3 +31,5 @@
 </div>
 
 ![Model](./assets/preview_3.jpeg)
+
+https://www.thingiverse.com/thing:6929603
